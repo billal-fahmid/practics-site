@@ -135,3 +135,45 @@ header{
 .mar{
     margin-top: 30px;
 }
+/* this is updates area start */
+
+.updates-area{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 130px;
+}
+/* .form{
+    justify-content: center;
+    padding: 0 50px;
+} */
+.emails{
+    background-color: rgb(253, 218, 175);
+    height: 40px;
+    /* width: 600px; */
+    padding: 70px 0;
+    border-radius: 10px;
+    margin-top: 50px;
+    
+}
+input{
+    border: none;
+    height: 50px;
+    background-color: rgb(218, 218, 252);
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+footer{
+    height: 120px;
+    background-color: rgba(24, 2, 2, 0.87);
+    text-align: center;
+    
+}
+footer h1{
+    color: orangered;
+    padding-top: 25px;
+}
+footer p{
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
